@@ -1,0 +1,34 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariaMalina/codewars.git"
+  },
+  "author": "DariaMalina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DariaMalina/codewars/issues"
+  },
+  "homepage": "https://github.com/DariaMalina/codewars#readme",
+  "dependencies": {
+    "prettier": "^2.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  },
+"prettier": {
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "semi": true,
+
+  "singleQuote": true
+}
+}
