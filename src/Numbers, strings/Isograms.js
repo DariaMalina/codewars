@@ -10,6 +10,5 @@ function isIsogram(str) {
   }
   return true;
 }
-
 // eslint-disable-next-line no-console
 console.log(isIsogram('Dermatoglyphics'));
